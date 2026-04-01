@@ -75,6 +75,7 @@ a {
 
 .main-content {
   padding: 28px;
+  min-width: 0;
 }
 
 .hero,
@@ -129,10 +130,13 @@ a {
 
 .lecture-header h1 {
   margin-top: 0;
+  line-height: 1.35;
 }
 
 .teacher-html {
   line-height: 1.7;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .teacher-html iframe {
@@ -166,6 +170,10 @@ a {
 .teacher-html table {
   width: 100%;
   border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
 }
 
 .teacher-html th,
@@ -193,9 +201,82 @@ a {
   .sidebar {
     position: static;
     height: auto;
+    max-height: none;
+    overflow-y: visible;
+    padding: 14px 12px;
   }
 
   .main-content {
     padding: 16px;
+  }
+
+  .nav-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .nav-link {
+    min-width: 0;
+    padding: 10px;
+  }
+
+  .brand {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  .hero,
+  .content-panel {
+    padding: 18px;
+    border-radius: 16px;
+  }
+
+  .lesson-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .teacher-html iframe {
+    min-height: 220px;
+    border-radius: 12px;
+  }
+}
+
+@media (max-width: 640px) {
+  .main-content {
+    padding: 12px;
+  }
+
+  .nav-list {
+    grid-template-columns: 1fr;
+  }
+
+  .nav-link {
+    font-size: 0.95rem;
+  }
+
+  .hero,
+  .content-panel {
+    padding: 14px;
+    margin-bottom: 14px;
+  }
+
+  .lecture-header h1,
+  .hero h1 {
+    font-size: 1.45rem;
+  }
+
+  .teacher-html {
+    font-size: 0.96rem;
+  }
+
+  .teacher-html iframe {
+    min-height: 190px;
+  }
+
+  .teacher-html th,
+  .teacher-html td {
+    padding: 7px 8px;
+    font-size: 0.92rem;
   }
 }
