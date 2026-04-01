@@ -1,0 +1,376 @@
+{
+  "title": "【☆2】動画編集で月5万円の収入を得る",
+  "pageCount": 74,
+  "pages": [
+    {
+      "no": 1,
+      "title": "アクションマップのゴール",
+      "fileName": "01-ac86b28c-feeb-489b-909a-7aa7e95ba671.html"
+    },
+    {
+      "no": 2,
+      "title": "アクションマップの全体像",
+      "fileName": "02-1668b6c5-25f6-42d5-801b-4771f8eada6d.html"
+    },
+    {
+      "no": 3,
+      "title": "Premiere Proをインストールする",
+      "fileName": "03-premiere-pro.html"
+    },
+    {
+      "no": 4,
+      "title": "プロジェクトを作成する",
+      "fileName": "04-4b691428-c6bb-454b-b227-16bfbf400b3c.html"
+    },
+    {
+      "no": 5,
+      "title": "基本的な画面構成を理解する",
+      "fileName": "05-5b8166e2-c08d-4955-aeeb-e2450e3fc74d.html"
+    },
+    {
+      "no": 6,
+      "title": "動画素材を読み込む",
+      "fileName": "06-05689800-f7de-4328-b2b2-4c71785236ff.html"
+    },
+    {
+      "no": 7,
+      "title": "タイムラインに素材を配置する",
+      "fileName": "07-c1f81eda-111c-420b-ae69-8e42e0a0210f.html"
+    },
+    {
+      "no": 8,
+      "title": "再生操作を覚える",
+      "fileName": "08-22a84e12-9bdb-4405-b2a5-918b4e85bba1.html"
+    },
+    {
+      "no": 9,
+      "title": "ショートカットキーを設定する",
+      "fileName": "09-2dc2f984-5c60-4322-b390-88d1f5d2b164.html"
+    },
+    {
+      "no": 10,
+      "title": "カットを実行する",
+      "fileName": "10-0b506838-aa5b-4933-ae13-e9a3e4c65600.html"
+    },
+    {
+      "no": 11,
+      "title": "不要部分を削除する",
+      "fileName": "11-ef548270-00b2-49ba-8b4f-e745c8f75ac7.html"
+    },
+    {
+      "no": 12,
+      "title": "テキストを追加する",
+      "fileName": "12-181479fd-145e-4f69-85bd-003666fd4d70.html"
+    },
+    {
+      "no": 13,
+      "title": "テロップの位置とサイズを調整する",
+      "fileName": "13-00f5b5e9-1d02-49ea-99f4-4c64105c8e84.html"
+    },
+    {
+      "no": 14,
+      "title": "動画を書き出す",
+      "fileName": "14-c491050f-0656-49a3-a7ac-d7521de616f0.html"
+    },
+    {
+      "no": 15,
+      "title": "10秒動画を完成させる",
+      "fileName": "15-10.html"
+    },
+    {
+      "no": 16,
+      "title": "カット編集の基礎を理解する",
+      "fileName": "16-a8bc984f-1329-45ff-9cdb-9121f05d076b.html"
+    },
+    {
+      "no": 17,
+      "title": "ジャンプカットを習得する",
+      "fileName": "17-6f535520-d0ad-439e-b462-85da6c4fcaab.html"
+    },
+    {
+      "no": 18,
+      "title": "Lカット・Jカットを習得する",
+      "fileName": "18-lj.html"
+    },
+    {
+      "no": 19,
+      "title": "テロップのデザインを学ぶ",
+      "fileName": "19-c1f7c99a-eb04-4496-9753-5aeadbc8bb65.html"
+    },
+    {
+      "no": 20,
+      "title": "テロップアニメーションを作成する",
+      "fileName": "20-352ffbd3-0bc0-425d-95ff-752ccaf05b82.html"
+    },
+    {
+      "no": 21,
+      "title": "テロップを効率的に作る",
+      "fileName": "21-eeaec4f4-64fa-4821-aefb-266088237e20.html"
+    },
+    {
+      "no": 22,
+      "title": "BGMを追加する",
+      "fileName": "22-bgm.html"
+    },
+    {
+      "no": 23,
+      "title": "音量を調整する",
+      "fileName": "23-2b9727b4-3aa1-45fc-a840-0dd4ff19ee0f.html"
+    },
+    {
+      "no": 24,
+      "title": "BGMをフェードイン・フェードアウトさせる",
+      "fileName": "24-bgm.html"
+    },
+    {
+      "no": 25,
+      "title": "効果音を追加する",
+      "fileName": "25-4f9bce79-69f8-4861-aa42-5a4346ddde81.html"
+    },
+    {
+      "no": 26,
+      "title": "トランジションを使う",
+      "fileName": "26-6dfed7b6-1fc8-42e7-81e5-a62b978c2ba1.html"
+    },
+    {
+      "no": 27,
+      "title": "色調補正の基礎を学ぶ",
+      "fileName": "27-c54c971d-8800-4fb4-a8c4-e5c47750819b.html"
+    },
+    {
+      "no": 28,
+      "title": "複数クリップの色を統一する",
+      "fileName": "28-59264811-754b-4829-ba36-f8d325bf7e3d.html"
+    },
+    {
+      "no": 29,
+      "title": "速度変更を使う",
+      "fileName": "29-f825241d-2fe3-4e9c-9fac-3adc6940a210.html"
+    },
+    {
+      "no": 30,
+      "title": "エフェクトを適用する",
+      "fileName": "30-405b5aff-8c5c-4032-a2b5-05953369bfdf.html"
+    },
+    {
+      "no": 31,
+      "title": "画像素材を挿入する",
+      "fileName": "31-1b2e2ff5-7a86-4a0e-af41-914190f04907.html"
+    },
+    {
+      "no": 32,
+      "title": "画像にアニメーションを追加する",
+      "fileName": "32-8737e253-034c-4de2-82a6-268e27b208c9.html"
+    },
+    {
+      "no": 33,
+      "title": "マルチカメラ編集の基礎を理解する",
+      "fileName": "33-40f8ff85-b075-4bf7-9f6f-e168980ddd9b.html"
+    },
+    {
+      "no": 34,
+      "title": "書き出し設定を理解する",
+      "fileName": "34-a4d5ff94-0176-41e3-9adc-b08e54f27c59.html"
+    },
+    {
+      "no": 35,
+      "title": "基礎編集テスト",
+      "fileName": "35-500adf98-1d26-46d9-8569-13a8c24a6073.html"
+    },
+    {
+      "no": 36,
+      "title": "ここまでの振り返りと次のステップ",
+      "fileName": "36-1ed66437-3c49-4bda-97e9-c373c2457776.html"
+    },
+    {
+      "no": 37,
+      "title": "ポートフォリオの目的を理解する",
+      "fileName": "37-dbc8f71e-302f-41c6-9b44-603073843a23.html"
+    },
+    {
+      "no": 38,
+      "title": "ポートフォリオに含めるべき要素を決める",
+      "fileName": "38-81a7d87a-0ee6-460a-af30-08c9ebc66e2a.html"
+    },
+    {
+      "no": 39,
+      "title": "ターゲットとするジャンルを決める",
+      "fileName": "39-58465d68-75aa-40b3-8d61-67f15b550e3e.html"
+    },
+    {
+      "no": 40,
+      "title": "ポートフォリオ用の素材を集める",
+      "fileName": "40-f36f8445-df5f-4b96-a989-0ff89aea6da6.html"
+    },
+    {
+      "no": 41,
+      "title": "1本目サンプル動画を企画する",
+      "fileName": "41-1.html"
+    },
+    {
+      "no": 42,
+      "title": "1本目のサンプル動画を編集する",
+      "fileName": "42-1.html"
+    },
+    {
+      "no": 43,
+      "title": "2本目のサンプル動画を企画・編集する",
+      "fileName": "43-2.html"
+    },
+    {
+      "no": 44,
+      "title": "3本目のサンプル動画を企画・編集する",
+      "fileName": "44-3.html"
+    },
+    {
+      "no": 45,
+      "title": "ポートフォリオサイトを選ぶ",
+      "fileName": "45-63c44e71-ff99-465d-af19-e86fec27bd93.html"
+    },
+    {
+      "no": 46,
+      "title": "自己紹介文を作成する",
+      "fileName": "46-2985fb6f-6ba4-4817-be7d-e911b47a4c92.html"
+    },
+    {
+      "no": 47,
+      "title": "ポートフォリオを公開する",
+      "fileName": "47-903be8b1-5194-42af-b3d3-982a598f5db3.html"
+    },
+    {
+      "no": 48,
+      "title": "フィードバックをもらう",
+      "fileName": "48-85576f34-9155-4b41-870d-265ce3fee795.html"
+    },
+    {
+      "no": 49,
+      "title": "ポートフォリオを改善する",
+      "fileName": "49-032af333-bb70-423a-b2aa-3761bbfd729c.html"
+    },
+    {
+      "no": 50,
+      "title": "案件獲得のマインドセットを整える",
+      "fileName": "50-3ed166cb-d0ba-4271-94a9-d4168405687d.html"
+    },
+    {
+      "no": 51,
+      "title": "動画編集案件の獲得方法を理解する",
+      "fileName": "51-3f1c8d72-0109-4720-b77c-f9c96bd53c81.html"
+    },
+    {
+      "no": 52,
+      "title": "自分に合った営業方法を選ぶ",
+      "fileName": "52-d1d1d4a5-edce-4976-b95d-00d118b8390a.html"
+    },
+    {
+      "no": 53,
+      "title": "営業の準備をする",
+      "fileName": "53-6c405144-6b6e-491c-9df3-d32cd6b05083.html"
+    },
+    {
+      "no": 54,
+      "title": "初心者向け案件の見極め方を学ぶ",
+      "fileName": "54-1377330b-002a-4993-a701-d7033335d007.html"
+    },
+    {
+      "no": 55,
+      "title": "営業文の書き方を学ぶ",
+      "fileName": "55-fec91737-3e76-48a9-90f2-91e628d1cb64.html"
+    },
+    {
+      "no": 56,
+      "title": "営業文10件送る",
+      "fileName": "56-10.html"
+    },
+    {
+      "no": 57,
+      "title": "返信への対応方法を学ぶ",
+      "fileName": "57-48160cdd-1926-4553-8b1f-765718745816.html"
+    },
+    {
+      "no": 58,
+      "title": "見積もりの出し方を学ぶ",
+      "fileName": "58-ce613e84-522e-4de1-819b-9fa37bbabff0.html"
+    },
+    {
+      "no": 59,
+      "title": "継続的に応募・営業する",
+      "fileName": "59-53b81481-83e5-404d-8efc-0819e27191d5.html"
+    },
+    {
+      "no": 60,
+      "title": "初案件を獲得する",
+      "fileName": "60-61e27576-a1b6-45d7-8a6c-443b2598c8fa.html"
+    },
+    {
+      "no": 61,
+      "title": "クライアントワークのマインドセットを整える",
+      "fileName": "61-b929fd4e-5921-41b8-9be5-68d6c4f28ec1.html"
+    },
+    {
+      "no": 62,
+      "title": "案件の要件を整理する",
+      "fileName": "62-bd5006f2-393f-4af3-b9ee-6dd11020cf30.html"
+    },
+    {
+      "no": 63,
+      "title": "初案件を編集・納品する",
+      "fileName": "63-80722cff-375d-422f-a044-f6f21fa2ec00.html"
+    },
+    {
+      "no": 64,
+      "title": "フィードバックを受けて修正対応する",
+      "fileName": "64-6c62ce27-683a-434c-b41d-9da2a7a51c44.html"
+    },
+    {
+      "no": 65,
+      "title": "初案件を完了する",
+      "fileName": "65-b8e09ba3-8dfb-499e-a040-71e18c6fd035.html"
+    },
+    {
+      "no": 66,
+      "title": "初案件クライアントに継続案件を提案する",
+      "fileName": "66-f01eaeba-ac51-4239-b999-71ffd66cfb2c.html"
+    },
+    {
+      "no": 67,
+      "title": "2件目、3件目の案件を獲得する",
+      "fileName": "67-23.html"
+    },
+    {
+      "no": 68,
+      "title": "実績をポートフォリオに追加する",
+      "fileName": "68-253365b3-0b8a-40e2-b968-07d4a8ab0fcd.html"
+    },
+    {
+      "no": 69,
+      "title": "作業効率を上げる",
+      "fileName": "69-a8c42db7-2a0d-4db3-826e-877598e3c25a.html"
+    },
+    {
+      "no": 70,
+      "title": "単価を上げる準備をする",
+      "fileName": "70-7d53ef73-d413-4acb-8983-1f15e3447b9b.html"
+    },
+    {
+      "no": 71,
+      "title": "高単価案件に応募する",
+      "fileName": "71-68855aec-a33c-4a94-8366-547c7d4a03ab.html"
+    },
+    {
+      "no": 72,
+      "title": "既存クライアントと単価交渉する",
+      "fileName": "72-a3fc9946-73ef-406c-9a87-e08fa9a33c5f.html"
+    },
+    {
+      "no": 73,
+      "title": "月5万円達成のための計画を立てる",
+      "fileName": "73-5.html"
+    },
+    {
+      "no": 75,
+      "title": "月5万円を達成する",
+      "fileName": "75-5.html"
+    }
+  ]
+}
